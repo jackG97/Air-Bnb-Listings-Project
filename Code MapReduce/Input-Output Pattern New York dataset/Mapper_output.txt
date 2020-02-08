@@ -1,0 +1,20 @@
+403668	Gorgeous Sunny, Spacious 1 bdrm in East Village	2013117	Katya	Manhattan	East Village	40.72812	-73.97966	Entire home/apt	147	2	16	02/01/2019	0.18	1	0
+403264	Luxury room in Manhattan Duplex Apt	1386983	Candice	Manhattan	Midtown	40.7453	-73.99056	Private room	145	3	165	03/07/2019	1.88	2	181
+403056	Large Private Room Near Central Park & Mount Sinai	2010724	K. Naomi	Manhattan	East Harlem	40.79314	-73.94853	Private room	125	3	74	28/05/2019	0.84	3	212
+402037	Stay with a Jazz Singer in Harlem!	2006712	Amanda	Manhattan	Harlem	40.80192	-73.95827	Private room	125	1	0			1	365
+401836	Sunny UES 1.5 Bedroom, Sleeps 6	2005740	Maya	Manhattan	Upper East Side	40.76494	-73.95804	Entire home/apt	300	4	19	21/05/2019	0.22	1	84
+401579	ECO-APT, free YOGA, 2 new bedrooms. Best location!	462379	Loretta	Brooklyn	Carroll Gardens	40.67939	-73.99398	Entire home/apt	298	30	131	23/06/2019	1.84	2	296
+400466	Bright Brooklyn Flat w/Park Views, 30 day minimum	1985759	Esther	Brooklyn	Prospect-Lefferts Gardens	40.66009	-73.96237	Entire home/apt	90	30	32	11/10/2016	0.37	1	50
+400039	Big Beautiful Railroad in Brooklyn	1488809	John	Brooklyn	Bushwick	40.70339	-73.92945	Entire home/apt	130	30	53	30/06/2017	0.68	1	0
+399946	Light Superhosted Chill LES Apt	1996265	David	Manhattan	Lower East Side	40.72123	-73.98996	Private room	90	10	67	16/05/2019	0.77	1	301
+398283	PARK SLOPE: SWEET, LARGE 2BR DUPLEX	1989327	William	Brooklyn	South Slope	40.66106	-73.98316	Entire home/apt	250	3	17	05/07/2019	0.46	1	5
+882209	Gorgeous Williamsburg Apartment	3673451	Nikki	Brooklyn	Williamsburg	40.70502	-73.95262	Private room	80	2	37	04/05/2019	0.56	2	89
+880424	★Beautiful Home Away From Home★	3549531	Jeremy	Brooklyn	Prospect-Lefferts Gardens	40.65514	-73.95956	Private room	60	1	109	04/06/2019	1.52	1	2
+880256	Beautiful Trendy 2br Harlem Apt.	4655169	Rochelle	Manhattan	Harlem	40.82764	-73.93842	Entire home/apt	165	2	21	02/01/2019	0.3	1	347
+878142	Serene 1BR+Garden+Goldfish Pond+Cook's Kitchen	2597159	Alana	Brooklyn	Williamsburg	40.71335	-73.9496	Entire home/apt	200	4	4	25/10/2018	0.42	2	0
+877135	Williamsburg 1br APT	4628887	Hoonju / Co Host: Jose	Brooklyn	Williamsburg	40.71518	-73.94571	Entire home/apt	95	3	36	16/06/2019	0.95	1	89
+876565	Spacious Comfy Bedroom in Bed-Stuy	4509849	Ines	Brooklyn	Bedford-Stuyvesant	40.68598	-73.92677	Private room	62	3	112	30/06/2019	1.43	3	59
+876355	Large 1BR Columbia University	3994331	Vivian	Manhattan	Morningside Heights	40.81368	-73.95942	Entire home/apt	108	30	5	19/01/2019	0.07	1	230
+875567	Cozy West Village Studio Apartment	4622733	Marise	Manhattan	West Village	40.73746	-74.00686	Entire home/apt	113	3	71	09/06/2019	0.95	1	343
+875111	1-bedroom apt in Clinton Hill	2908554	Michael	Brooklyn	Bedford-Stuyvesant	40.68586	-73.95875	Entire home/apt	100	3	7	27/01/2019	0.11	1	0
+874706	Fully Updated Modern 1 Bedroom Apartment	4616773	Joan	Brooklyn	Kensington	40.64534	-73.97189	Entire home/apt	95	3	154	01/07/2019	2	1	310

@@ -1,0 +1,20 @@
+401836	Sunny UES 1.5 Bedroom, Sleeps 6	2005740	Maya	Manhattan	Upper East Side	40.76494	-73.95804	Entire home/apt	300	4	19	21/05/2019	0.22	1	84
+401579	ECO-APT, free YOGA, 2 new bedrooms. Best location!	462379	Loretta	Brooklyn	Carroll Gardens	40.67939	-73.99398	Entire home/apt	298	30	131	23/06/2019	1.84	2	296
+398283	PARK SLOPE: SWEET, LARGE 2BR DUPLEX	1989327	William	Brooklyn	South Slope	40.66106	-73.98316	Entire home/apt	250	3	17	05/07/2019	0.46	1	5
+878142	Serene 1BR+Garden+Goldfish Pond+Cook's Kitchen	2597159	Alana	Brooklyn	Williamsburg	40.71335	-73.9496	Entire home/apt	200	4	4	25/10/2018	0.42	2	0
+880256	Beautiful Trendy 2br Harlem Apt.	4655169	Rochelle	Manhattan	Harlem	40.82764	-73.93842	Entire home/apt	165	2	21	02/01/2019	0.3	1	347
+403668	Gorgeous Sunny, Spacious 1 bdrm in East Village	2013117	Katya	Manhattan	East Village	40.72812	-73.97966	Entire home/apt	147	2	16	02/01/2019	0.18	1	0
+403264	Luxury room in Manhattan Duplex Apt	1386983	Candice	Manhattan	Midtown	40.7453	-73.99056	Private room	145	3	165	03/07/2019	1.88	2	181
+400039	Big Beautiful Railroad in Brooklyn	1488809	John	Brooklyn	Bushwick	40.70339	-73.92945	Entire home/apt	130	30	53	30/06/2017	0.68	1	0
+403056	Large Private Room Near Central Park & Mount Sinai	2010724	K. Naomi	Manhattan	East Harlem	40.79314	-73.94853	Private room	125	3	74	28/05/2019	0.84	3	212
+402037	Stay with a Jazz Singer in Harlem!	2006712	Amanda	Manhattan	Harlem	40.80192	-73.95827	Private room	125	1	0			1	365
+479546	CENTRAL LONDON BIG APARTMENT 3 bedroom 2 Bathroom	2094779	Lamya		Hammersmith and Fulham	51.47605	-0.1955	Entire home/apt	179	4	97	15/06/2019	1.21	1	244
+479129	Great 2bedroom apartment in Greenwich Heart	2308769	Craig		Greenwich	51.48233	-0.01073	Entire home/apt	148	4	92	02/01/2019	1.09	3	191
+482178	Great St Paul's and City location	2176101	Andrew		City of London	51.51578	-0.09496	Entire home/apt	140	3	92	10/06/2019	1.08	1	284
+927413	Central London trendy, quiet, chic	4325410	Alan		Westminster	51.51931	-0.1394	Entire home/apt	135	5	138	19/05/2019	1.77	1	0
+927136	Ladbroke Grove - Garden flat	4988902	Romilly		Kensington and Chelsea	51.51885	-0.21991	Entire home/apt	130	5	10	04/10/2015	0.13	1	313
+928588	Large 2-bed designer apartment central London Z1	1532140	Alex		Islington	51.53126	-0.09827	Entire home/apt	129	2	17	18/06/2019	1.09	1	24
+925550	Beautiful Non Smoking London Home	4979028	Isabella		Harrow	51.60404	-0.33665	Entire home/apt	125	4	7	16/06/2019	0.09	1	289
+479906	BETHNL GREEN DOUBLE ROOM CLOSE TUBE	2377094	Lee		Southwark	51.50664	-0.03979	Private room	113	14	0			1	0
+926634	London Luxury Apartment#7 Zone 1 On Promotion	1612612	Abu & Khurram		Tower Hamlets	51.51541	-0.06793	Entire home/apt	85	1	142	11/06/2019	1.92	36	0
+926708	London Luxury Apartment#11 Zone 1 On Promo	1612612	Abu & Khurram		Tower Hamlets	51.51481	-0.0665	Entire home/apt	69	1	137	08/06/2019	1.78	36	0

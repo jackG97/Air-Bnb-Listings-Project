@@ -1,0 +1,21 @@
+london https://data.world/kgarrett/inside-airbnb-london
+New York https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
+
+
+Literature review 
+
+NYC
+
+https://www.kaggle.com/dgomonov/data-exploration-on-nyc-airbnb
+https://www.kaggle.com/biphili/hospitality-in-era-of-airbnb
+https://www.kaggle.com/ekrembayar/python-programming-versus-r-programming
+
+
+LON
+
+http://insideairbnb.com/london/
+http://insideairbnb.com/get-the-data.html
+
+
+

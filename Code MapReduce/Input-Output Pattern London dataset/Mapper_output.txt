@@ -1,0 +1,20 @@
+482178	Great St Paul's and City location	2176101	Andrew		City of London	51.51578	-0.09496	Entire home/apt	140	3	92	10/06/2019	1.08	1	284
+481999	Comfortable room to stay in London.	2354821	Monique		Croydon	51.40458	-0.09256	Private room	34	1	9	14/10/2018	0.16	2	133
+481099	Relaxing stay in leafy Hackney, E5	2382601	J (And Family)		Hackney	51.55852	-0.04968	Private room	44	2	102	09/05/2019	1.19	2	290
+480646	Modern Dble Ensuite nr Excel Rm2	2359252	Tim & Michelle		Newham	51.50417	0.02649	Private room	49	2	147	19/06/2019	1.69	2	10
+480629	Dble Ensuite in Cool House nr Excel	2359252	Tim & Michelle		Newham	51.50248	0.02545	Private room	49	2	107	28/06/2019	1.29	2	1
+480580	Lovely double room with ensuite bath near Brixton	2124185	Graham & Ivano		Lambeth	51.46644	-0.09711	Private room	45	3	12	01/11/2017	0.14	2	171
+480157	Feel like Home and Free in London	2095131	Tomaz		Newham	51.55424	0.02951	Shared room	22	1	17	15/06/2019	0.2	1	364
+479906	BETHNL GREEN DOUBLE ROOM CLOSE TUBE	2377094	Lee		Southwark	51.50664	-0.03979	Private room	113	14	0			1	0
+479546	CENTRAL LONDON BIG APARTMENT 3 bedroom 2 Bathroom	2094779	Lamya		Hammersmith and Fulham	51.47605	-0.1955	Entire home/apt	179	4	97	15/06/2019	1.21	1	244
+479129	Great 2bedroom apartment in Greenwich Heart	2308769	Craig		Greenwich	51.48233	-0.01073	Entire home/apt	148	4	92	02/01/2019	1.09	3	191
+928721	Shoreditch Central/East London Lively Zone 1	4999188	Jozef		Hackney	51.53068	-0.08933	Private room	46	1	86	30/06/2019	1.38	2	357
+928588	Large 2-bed designer apartment central London Z1	1532140	Alex		Islington	51.53126	-0.09827	Entire home/apt	129	2	17	18/06/2019	1.09	1	24
+927739	Lovely split level flat in Dalston	4965549	Charlotte		Hackney	51.55653	-0.08169	Private room	22	90	0			1	364
+927413	Central London trendy, quiet, chic	4325410	Alan		Westminster	51.51931	-0.1394	Entire home/apt	135	5	138	19/05/2019	1.77	1	0
+927136	Ladbroke Grove - Garden flat	4988902	Romilly		Kensington and Chelsea	51.51885	-0.21991	Entire home/apt	130	5	10	04/10/2015	0.13	1	313
+926708	London Luxury Apartment#11 Zone 1 On Promo	1612612	Abu & Khurram		Tower Hamlets	51.51481	-0.0665	Entire home/apt	69	1	137	08/06/2019	1.78	36	0
+926695	London Luxury Apartment#10 Zone 1 On Promotion	1612612	Abu & Khurram		Tower Hamlets	51.51444	-0.06707	Entire home/apt	67	1	205	08/07/2019	2.67	36	0
+926634	London Luxury Apartment#7 Zone 1 On Promotion	1612612	Abu & Khurram		Tower Hamlets	51.51541	-0.06793	Entire home/apt	85	1	142	11/06/2019	1.92	36	0
+925550	Beautiful Non Smoking London Home	4979028	Isabella		Harrow	51.60404	-0.33665	Entire home/apt	125	4	7	16/06/2019	0.09	1	289
+925390	ARTIST STUDIO	4038832	Mauricio		Brent	51.53186	-0.20025	Private room	35	5	92	29/06/2017	1.21	2	259

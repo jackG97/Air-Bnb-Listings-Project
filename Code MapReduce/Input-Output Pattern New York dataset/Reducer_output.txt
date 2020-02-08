@@ -1,0 +1,10 @@
+401836	Sunny UES 1.5 Bedroom, Sleeps 6	2005740	Maya	Manhattan	Upper East Side	40.76494	-73.95804	Entire home/apt	300	4	19	21/05/2019	0.22	1	84
+401579	ECO-APT, free YOGA, 2 new bedrooms. Best location!	462379	Loretta	Brooklyn	Carroll Gardens	40.67939	-73.99398	Entire home/apt	298	30	131	23/06/2019	1.84	2	296
+398283	PARK SLOPE: SWEET, LARGE 2BR DUPLEX	1989327	William	Brooklyn	South Slope	40.66106	-73.98316	Entire home/apt	250	3	17	05/07/2019	0.46	1	5
+878142	Serene 1BR+Garden+Goldfish Pond+Cook's Kitchen	2597159	Alana	Brooklyn	Williamsburg	40.71335	-73.9496	Entire home/apt	200	4	4	25/10/2018	0.42	2	0
+880256	Beautiful Trendy 2br Harlem Apt.	4655169	Rochelle	Manhattan	Harlem	40.82764	-73.93842	Entire home/apt	165	2	21	02/01/2019	0.3	1	347
+403668	Gorgeous Sunny, Spacious 1 bdrm in East Village	2013117	Katya	Manhattan	East Village	40.72812	-73.97966	Entire home/apt	147	2	16	02/01/2019	0.18	1	0
+403264	Luxury room in Manhattan Duplex Apt	1386983	Candice	Manhattan	Midtown	40.7453	-73.99056	Private room	145	3	165	03/07/2019	1.88	2	181
+400039	Big Beautiful Railroad in Brooklyn	1488809	John	Brooklyn	Bushwick	40.70339	-73.92945	Entire home/apt	130	30	53	30/06/2017	0.68	1	0
+403056	Large Private Room Near Central Park & Mount Sinai	2010724	K. Naomi	Manhattan	East Harlem	40.79314	-73.94853	Private room	125	3	74	28/05/2019	0.84	3	212
+402037	Stay with a Jazz Singer in Harlem!	2006712	Amanda	Manhattan	Harlem	40.80192	-73.95827	Private room	125	1	0			1	365
